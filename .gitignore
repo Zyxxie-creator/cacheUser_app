@@ -1,0 +1,35 @@
+# Игнорирование файлов и директорий, сгенерированных npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# Игнорирование локальных файлов конфигурации
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Игнорирование файлов и директорий, созданных вашей IDE или редактором кода
+.vscode/
+.idea/
+*.iml
+
+# Игнорирование файлов сборки
+/build
+/dist
+/out
+
+# Игнорирование файлов кэша
+.cache/
+*.log
+
+# Игнорирование временных файлов
+*.tmp
+*.swp
+
+# Игнорирование файлов логов
+logs
+*.log.*
