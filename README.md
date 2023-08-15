@@ -1,8 +1,8 @@
 # cacheUser_app
 **Welcome to RandomUser Viewer 🌟**
 
-A delightful React app for exploring _random user_ profiles with style!
 ![Alt Text](demo.gif)
+
 🎉 **Features** 🎉
 - Fetch and display random user data.
 - Throttle button to control API requests.
